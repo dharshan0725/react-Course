@@ -4,7 +4,7 @@ import "../pages/homepage.css";
 export function HomePage() {
   return (
     <>
-      <title>HomePage</title>
+      <title>YO-Shopit</title>
       <div className="header">
         <div className="left-section">
           <a href="/" className="header-link">
